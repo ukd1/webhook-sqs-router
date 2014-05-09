@@ -1,5 +1,7 @@
 # Webhook -> SQS
 
+[![Build Status](https://travis-ci.org/ukd1/webhook-sqs-router.png)](https://travis-ci.org/ukd1/webhook-sqs-router)
+
 This project takes HTTP GET or POST requests and pushes them in to SQS for you to process later.
 
 ## Setup
