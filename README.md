@@ -9,7 +9,7 @@ This project takes HTTP GET or POST requests and pushes them in to SQS for you t
 ### Prerequisites
 
 1. Setup an SQS queue
-2. Setup an IAM user, note down the public and secret keys
+2. Setup an IAM user, noting down the public and secret keys
 3. Apply the following IAM policy (customise for your arn)
 
 ```
